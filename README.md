@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="profile.png" width="200"/>
 
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=About+me)](https://git.io/typing-svg)
 
