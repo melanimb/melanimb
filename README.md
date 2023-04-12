@@ -13,6 +13,7 @@
   [![Git](https://img.shields.io/badge/Git--_.svg?style=social&logo=git)](https://git-scm.com/)
   [![HTML](https://img.shields.io/badge/HTML--_.svg?style=social&logo=html5)](https://developer.mozilla.org/es/docs/Web/HTML)
   [![CSS](https://img.shields.io/badge/CSS--_.svg?style=social&logo=css3)](https://developer.mozilla.org/es/docs/Web/CSS)
+  [![Sass](https://img.shields.io/badge/Sass--_.svg?style=social&logo=sass)](https://sass-lang.com/)
   [![JavaScript](https://img.shields.io/badge/JavaScript--_.svg?style=social&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   [![React](https://img.shields.io/badge/React--_.svg?style=social&logo=react)](https://reactjs.org/)
   [![Next.js](https://img.shields.io/badge/Next.js--_.svg?style=social&logo=next.js)](https://nextjs.org/)
