@@ -1,4 +1,4 @@
-<div align="justify max-width: 800px; margin: 0 auto; padding: 0 20px;">
+<div align="center" style="max-width: 600px; margin: 0 auto;">
 
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=About+me)](https://git.io/typing-svg)
 
