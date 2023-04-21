@@ -17,6 +17,8 @@
   [![JavaScript](https://img.shields.io/badge/JavaScript--_.svg?style=social&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   [![React](https://img.shields.io/badge/React--_.svg?style=social&logo=react)](https://reactjs.org/)
   [![Next.js](https://img.shields.io/badge/Next.js--_.svg?style=social&logo=next.js)](https://nextjs.org/)
+  [![Jest](https://img.shields.io/badge/Jest--_.svg?style=social&logo=jest)](https://jestjs.io/)
+  [![React Testing Library](https://img.shields.io/badge/React_Testing_Library--_.svg?style=social&logo=testing-library)](https://testing-library.com/docs/react-testing-library/intro/)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap--_.svg?style=social&logo=bootstrap)](https://getbootstrap.com/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS--_.svg?style=social&logo=tailwind-css)](https://tailwindcss.com/)
 <div/>
