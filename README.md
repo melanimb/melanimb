@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
 
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=About+me)](https://git.io/typing-svg)
 
