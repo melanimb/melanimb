@@ -2,7 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B665FF&center=true&width=435&lines=About+me)](https://git.io/typing-svg)
 
-  Hola! Mi nombre es Melani! Me apasiona el desarrollo frontend, aprender nuevas tecnologías y explorar formas originales de resolver problemas. Actualmente estoy trabajando en un proyecto. Estoy interesada en seguir aprendiendo y trabajar en nuevos y retadores proyectos que me permitan crecer profesionalmente.
+  Hola! Mi nombre es Melani! Me apasiona el desarrollo frontend, aprender nuevas tecnologías y explorar formas originales de resolver problemas. Estoy interesada en seguir aprendiendo y trabajar en nuevos y retadores proyectos que me permitan crecer profesionalmente.
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/melania-mares-321034262/)
 
