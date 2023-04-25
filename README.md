@@ -8,7 +8,7 @@
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B665FF&center=true&width=435&lines=Technologies)](https://git.io/typing-svg)
-  
+
   Aquí muestro las tecnologías que manejo actualmente:
 
   [![Git](https://img.shields.io/badge/Git--_.svg?style=social&logo=git)](https://git-scm.com/)
@@ -23,5 +23,5 @@
   [![Bootstrap](https://img.shields.io/badge/Bootstrap--_.svg?style=social&logo=bootstrap)](https://getbootstrap.com/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS--_.svg?style=social&logo=tailwind-css)](https://tailwindcss.com/)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MelaniMB&theme=aura&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MelaniMB&theme=aura&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 <div/>
