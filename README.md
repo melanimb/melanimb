@@ -7,7 +7,7 @@ Frontend developer
 I am passionate about frontend development, learning new technologies and exploring original ways to solve problems. I am interested in continuing to learn and work on new and challenging projects that allow me to grow professionally.
 
 * 🌍  I'm based in Spain
-* 🖥️  See my portfolio at [MelaniMBPorfolio](http://melanimb.github.io/portfolio/)
+* 🖥️  See my portfolio at [MelaniMBPortfolio](http://melanimb.github.io/portfolio/)
 * 🚀  I'm currently working on [StoreTrack](http://#)
 * 🧠  I'm learning Typescript and Testing
 
