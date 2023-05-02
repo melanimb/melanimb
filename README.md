@@ -33,10 +33,12 @@ I am passionate about frontend development, learning new technologies and explor
 
 <p align="left"> <a href="https://www.github.com/melanimb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/melania-mares-321034262/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Badges
+
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/melanimb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=melanimb&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/melanimb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=melanimb&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/melanimb/image-gallery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=melanimb&repo=image-gallery&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/melanimb/image-gallery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=melanimb&repo=image-gallery&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
