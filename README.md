@@ -1,27 +1,56 @@
-<div align="center" style="max-width: 300px; margin: 0 auto;">
+<div align="center" style="max-width: 350px; margin: 0 auto;">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B665FF&center=true&width=435&lines=About+me)](https://git.io/typing-svg)
+  Hi 👋 My name is Melani
+=======================
 
-  Hola! Mi nombre es Melani! Me apasiona el desarrollo frontend, aprender nuevas tecnologías y explorar formas originales de resolver problemas. Estoy interesada en seguir aprendiendo y trabajar en nuevos y retadores proyectos que me permitan crecer profesionalmente.
+Frontend developer
+------------------
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/melania-mares-321034262/)
+<p align="left">
+  I am passionate about frontend development, learning new technologies and exploring original ways to solve problems. I am interested in continuing to learn and work on new and challenging projects that allow me to grow professionally.
+</p>
 
+* 🌍  I'm based in Spain
+* 🖥️  See my portfolio at [MelaniMBPorfolio](http://melanimb.github.io/portfolio/)
+* 🚀  I'm currently working on [StoreTrack](http://#)
+* 🧠  I'm learning Typescript and Testing
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B665FF&center=true&width=435&lines=Technologies)](https://git.io/typing-svg)
+<br /><br />
+### Skills
+<br />
 
-  Aquí muestro las tecnologías que manejo actualmente:
+<p align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+</p>
 
-  [![Git](https://img.shields.io/badge/Git--_.svg?style=social&logo=git)](https://git-scm.com/)
-  [![HTML](https://img.shields.io/badge/HTML--_.svg?style=social&logo=html5)](https://developer.mozilla.org/es/docs/Web/HTML)
-  [![CSS](https://img.shields.io/badge/CSS--_.svg?style=social&logo=css3)](https://developer.mozilla.org/es/docs/Web/CSS)
-  [![Sass](https://img.shields.io/badge/Sass--_.svg?style=social&logo=sass)](https://sass-lang.com/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript--_.svg?style=social&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![React](https://img.shields.io/badge/React--_.svg?style=social&logo=react)](https://reactjs.org/)
-  [![Next.js](https://img.shields.io/badge/Next.js--_.svg?style=social&logo=next.js)](https://nextjs.org/)
-  [![Jest](https://img.shields.io/badge/Jest--_.svg?style=social&logo=jest)](https://jestjs.io/)
-  [![React Testing Library](https://img.shields.io/badge/React_Testing_Library--_.svg?style=social&logo=testing-library)](https://testing-library.com/docs/react-testing-library/intro/)
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap--_.svg?style=social&logo=bootstrap)](https://getbootstrap.com/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS--_.svg?style=social&logo=tailwind-css)](https://tailwindcss.com/)
+<br /><br />
+### Socials
+<br />
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MelaniMB&theme=aura&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<p align="center"> <a href="https://www.github.com/melanimb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/melania-mares-321034262/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<br /><br />
+### Badges
+<br />
+
+<b>My GitHub Stats</b>
+<br /><br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MelaniMB&theme=aura&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+<br />
+<b>Top Repositories</b>
+<br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/melanimb/image-gallery" align="left"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=melanimb&repo=image-gallery&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <div/>
