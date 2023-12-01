@@ -8,8 +8,8 @@ I am passionate about frontend development, learning new technologies and explor
 
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [MelaniMBPortfolio](http://melanimb.github.io/portfolio/)
-* 🚀  I'm currently working on (Coming soon...)
-* 🧠  I'm learning Typescript, Redux and Firebase
+* 🚀  I'm currently working on developing websites from 0
+* 🧠  I'm learning Python and Odoo
 
 ### Skills
 
