@@ -7,7 +7,7 @@ Frontend developer
 I am passionate about frontend development, learning new technologies and exploring original ways to solve problems. I am interested in continuing to learn and work on new and challenging projects that allow me to grow professionally.
 
 * 🌍  I'm based in Spain
-* 🖥️  See my portfolio at [MelaniMBPortfolio](http://melanimb.github.io/portfolio/)
+* 🖥️  See my portfolio at [MelaniMBPortfolio]([http://melanimb.github.io/portfolio/](https://melanimb.github.io/melanimb-portfolio/))
 * 🚀  I'm currently working on developing websites from 0
 * 🧠  I'm learning Python and Odoo
 
